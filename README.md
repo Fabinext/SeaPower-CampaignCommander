@@ -1,6 +1,12 @@
-Download via Releases
+# Sea Power – Campaign Commander (Uplink)
 
-    
+## Download
+**Download via Releases** (recommended).  
+Go to **Releases** and download the latest `.zip`.
+
+---
+
+```text
 ========================================================================
              SEA POWER - CAMPAIGN COMMANDER (UPLINK)
 ========================================================================
@@ -110,5 +116,3 @@ FUNKTIONEN
 ========================================================================
 Created by Faibi aka. ChildwithHandycap aka. FirstFlashYouThanBangYou | 2025
 ========================================================================
-
-  
