@@ -4,6 +4,8 @@
 **Download via Releases** (recommended).  
 Go to **Releases** and download the latest `.zip`.
 
+👉 Please submit feedback, bug reports, and suggestions here:  
+**https://docs.google.com/forms/d/e/1FAIpQLSfR04o2dzdSwgKiM3L7RzzuWqeFuTEbrjlmnRLA_XPWsxF6lA/viewform?usp=dialog**
 ---
 
 ```text
