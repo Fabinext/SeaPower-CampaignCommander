@@ -1,0 +1,114 @@
+Download via Releases
+
+    
+========================================================================
+             SEA POWER - CAMPAIGN COMMANDER (UPLINK)
+========================================================================
+                               v1.0
+========================================================================
+
+[ENGLISH] INSTALLATION & GUIDE
+------------------------------------------------------------------------
+
+1. INSTALLATION
+   - This tool is standalone. You do NOT need to install Python.
+   - Create a new folder anywhere on your PC (e.g., on your Desktop named "SeaPowerCommander").
+   - Place the "CampaignCommander.exe" inside this folder.
+   - (Optional) Create a shortcut to your Desktop.
+
+2. FIRST START & SETUP
+   - Run "CampaignCommander.exe".
+   - The tool will ask you to locate your Sea Power game installation.
+   - Navigate to your Steam folder and select the main game folder.
+     Usually: "...\SteamLibrary\steamapps\common\Sea Power"
+   - DO NOT select the "Sea Power_Data" folder inside, select the main folder above it!
+
+3. HOW TO PLAY
+   - Create a Profile: Choose your difficulty.
+     -> "Ensign": High budget, low costs (Sandbox style).
+     -> "Admiral": 0$ Start budget, high costs, realistic damage (Hardcore).
+   - SHIPYARD: Buy ships for your fleet. Prices are based on unit value.
+   - PORT: Repair your ships or sell them.
+     -> Warning: Ships have wear & tear. Damaged ships (<25%) have a chance 
+        to break down during deployment!
+   - OPS CENTER:
+     1. Select a mission from the list.
+     2. Check the checkboxes next to the ships you want to deploy.
+     3. Pay attention to the "Deployment Cost"! 
+     4. Adjust Time & Weather if needed.
+     5. Click "PAY & DEPLOY".
+   - INGAME:
+     - Start Sea Power.
+     - Go to "SZENARIOS" -> "User Mission" >>ACTIVE CAMPAIGN<<.
+     - Load the mission ">>ACTIVE CAMPAIGN<<".
+   - DEBRIEFING (Important!):
+     - After the battle, close the game (or Alt-Tab).
+     - Click "DEBRIEFING" in the Commander Tool.
+     - Check the Destrtoyed Vehicles on both sides, the money should be transfered
+
+------------------------------------------------------------------------
+FEATURES
+------------------------------------------------------------------------
+* Persistent Fleet: Your ships survive (or die) across missions.
+* Economy System: Earn money by destroying targets, pay for repairs and fuel.
+* Realism Mode: Ships degrade over time. Bad maintenance leads to engine failures wich leads to missing Ships.
+* Dynamic Market: Scans your game files to offer all available ships.
+* Mission Generator: Inject your custom fleet into any single mission.
+* Environment Control: Set time, weather, and sea state.
+
+========================================================================
+
+[DEUTSCH] INSTALLATION & ANLEITUNG
+------------------------------------------------------------------------
+
+1. INSTALLATION
+   - Das Programm ist eigenständig. Python muss NICHT installiert sein.
+   - Erstelle einen neuen Ordner auf deinem PC (z.B. "SeaPowerCommander").
+   - Lege die "CampaignCommander.exe" in diesen Ordner.
+   - (Optional) Erstelle eine Verknüpfung auf dem Desktop.
+
+2. ERSTER START
+   - Starte die "CampaignCommander.exe".
+   - Das Tool fragt nach dem Installationspfad von Sea Power.
+   - Wähle den Hauptordner des Spiels aus.
+     Meistens: "...\SteamLibrary\steamapps\common\Sea Power"
+   - WICHTIG: Wähle NICHT den "Sea Power_Data" Ordner, sondern den Ordner davor!
+
+3. SPIELABLAUF
+   - Profil erstellen: Wähle deinen Schwierigkeitsgrad.
+     -> "Ensign": Viel Geld, kaum Kosten (Ideal zum Testen).
+     -> "Admiral": 0$ Startkapital, hohe Kosten, harter Realismus.
+   - WERFT: Kaufe Schiffe für deine Flotte. Preise basieren auf dem Kampfwert.
+   - HAFEN: Repariere oder verkaufe Schiffe.
+     -> Achtung: Schiffe nutzen sich ab. Wer mit <25% Zustand startet, riskiert
+        Maschinenausfälle auf dem Weg zum Zielgebiet!
+   - EINSATZ (Ops Center):
+     1. Wähle eine Mission aus der Liste links.
+     2. Wähle in der Mitte die Schiffe aus, die mitfahren sollen (Häkchen setzen).
+     3. Achte auf die "Verlege-Kosten"! Große Flotten kosten viel Treibstoff.
+     4. Passe Zeit & Wetter an.
+     5. Klicke "KOSTEN BEZAHLEN & VERLEGEN".
+   - IM SPIEL:
+     - Starte Sea Power.
+     - Gehe zu "SZENARIOS" -> "User Mission" >>ACTIVE CAMPAIGN<<.
+     - Starte die Mission ">>ACTIVE CAMPAIGN<<".
+   - DEBRIEFING (Wichtig!):
+     - Nach dem Kampf: Tabbe aus dem Spiel oder schließe es.
+     - Klicke im Commander Tool auf "DEBRIEFING".
+     - Wähle die Zerstörten Fahrzeuge aus, Das geld wird nun gut geschrieben
+
+------------------------------------------------------------------------
+FUNKTIONEN
+------------------------------------------------------------------------
+* Persistente Flotte: Deine Schiffe werden gespeichert. Verluste sind permanent.
+* Wirtschaftssystem: Geld verdienen durch Abschüsse, bezahlen für Wartung & Start.
+* Realismus: Verschleiß und Maschinenschäden bei schlechtem Zustand.
+* Dynamischer Markt: Scannt deine Spieldateien, alle Schiffe sind kaufbar.
+* Mission Generator: Fügt deine eigene Flotte in jede beliebige Mission ein.
+* Umwelt-Kontrolle: Volle Kontrolle über Uhrzeit, Wetter und Seegang.
+
+========================================================================
+Created by Faibi aka. ChildwithHandycap aka. FirstFlashYouThanBangYou | 2025
+========================================================================
+
+  
