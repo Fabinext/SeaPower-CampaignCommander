@@ -1,5 +1,8 @@
 # Sea Power – Campaign Commander (Uplink)
 
+[![Discord](https://img.shields.io/badge/Discord-Join-blue?logo=discord&logoColor=white)](https://discord.gg/2yRdZXM9MK)
+
+
 ## Download
 👉 **Download via Releases** (recommended)  
 Go to **Releases** and download the latest `.zip`.
